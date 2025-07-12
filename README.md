@@ -1,6 +1,3 @@
-Here’s a clean, professional, and well-structured **README.md** template for your wizard-themed portfolio website on GitHub. It includes sections for project overview, features, tech stack, setup, and more—all formatted in Markdown (`.md`):
-
-```markdown
 # 🧙‍♂️ Wizard Portfolio - A Next.js Magical Showcase  
 
 ✨ **Live Demo:** [https://muhammad-ariffanka.vercel.app/](https://muhammad-ariffanka.vercel.app/)  
