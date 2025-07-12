@@ -3,9 +3,8 @@ Here’s a clean, professional, and well-structured **README.md** template for y
 ```markdown
 # 🧙‍♂️ Wizard Portfolio - A Next.js Magical Showcase  
 
-✨ **Live Demo:** [your-portfolio-link.com](https://your-portfolio-link.com)  
+✨ **Live Demo:** [[your-portfolio-link.com](https://muhammad-ariffanka.vercel.app/)]([https://your-portfolio-link.com](https://muhammad-ariffanka.vercel.app/))  
 
-![Wizard Portfolio Screenshot](./public/screenshot.png) *Screenshot of the homepage*  
 
 ---
 
